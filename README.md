@@ -1,7 +1,7 @@
-# 抖音福袋扭蛋机 v5.1.2
+# 抖音福袋扭蛋机 v5.2.0
 
 
-[2025-12-21] 抖音福袋扭蛋机，抖音抢福袋工具，抖音无水印视频下载器，抖音直播间录制下载器，抖音批量取消关注取关器。
+[2025-12-242 抖音福袋扭蛋机，抖音抢福袋工具，抖音无水印视频下载器，抖音直播间录制下载器，抖音批量取消关注取关器。
 
 最新公告：
 
@@ -28,20 +28,27 @@ TG通知群：
 
 https://t.me/+_3rhEtjaQElhMTgx
 
+# v5.2.0
+
+优化了程序的性能，极大降低了cpu占用率。
+
+现在一台电脑开20个窗口以上应该没有问题了。
+
+
+针对工作室用户的扭蛋机精英版本近期发布：
+
+https://www.cnblogs.com/usyd/p/19360451
+
+
 
 # v5.1.2
 
-紧急更新：
 
 解决了一个抖音算法变更，导致无法识别福袋的问题。
 
 解决一个比较严重的bug，福袋相关数据的内存溢出偶尔会导致程序闪退，在特定情况下也会导致没有设置“加入粉丝团”的情况下，偶尔下达加入粉丝团的指令。
 
 		
-
-针对工作室用户的扭蛋机精英版本近期发布：
-
-https://www.cnblogs.com/usyd/p/19360451
 
 
 # 近期历史更新
@@ -140,12 +147,12 @@ VIP充值链接： https://www.cnblogs.com/usyd/p/19329881
 
 
 
-v5.1.2 Release版本下载
+v5.2.0 Release版本下载
 
 
 https://github.com/testusyd/douyin_downloader/releases/tag/%E6%8A%96%E9%9F%B3
 
-https://github.com/testusyd/douyin_downloader/releases/download/%E6%8A%96%E9%9F%B3/douyin_downloader_v5.1.2.zip
+https://github.com/testusyd/douyin_downloader/releases/download/%E6%8A%96%E9%9F%B3/douyin_downloader_v5.2.0.zip
 
 
 注意：如果遇到打不开软件或解压出现问题的情况，可能需要在使用本软件时临时关闭杀毒软件或Windows Defender。
