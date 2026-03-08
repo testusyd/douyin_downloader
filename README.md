@@ -2,8 +2,8 @@
 
 # vip权限已经全部补偿完毕：
 
-2026-03-02
+2026-03-09
 
 请移步：
-	https://github.com/dylot2000/dy_lot_tool
+	https://www.cnblogs.com/usyd1997/p/19475476
 
